@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil sinta-se á vontade ♥
+## Bem-vindo(a) ao meu perfil, ainda sou um estudante, mas procuro aprender tudo que estiver no meu alcance nas linguagens de tecnologia.
 
  <div>
    <a href="https://github.com/Danilojapa99">
